@@ -20,28 +20,9 @@ As a Data Scientist, my primary responsibilities include:
 - Build a data model for the extracted data.
 - Design a Power BI dashboard that provides meaningful insights from the data.
 
-## Documentation:
-
-- Providing clear and concise documentation for the Flask web application.
-- Describing how to run the Flask application locally.
-- Outlining the steps for running tests on the Flask app.
-- Documenting the process of conducting exploratory data analysis using Python and SQL.
-
-## Code Quality and Best Practices:
-
-- Ensuring well-structured, modular, and best-practice-following code for the Flask application.
-- Implementing error handling for a graceful user experience.
-- Maintaining clarity and readability in code for ease of understanding and collaboration.
-
-## Bonus (Optional):
-
-- Implementing user authentication for accessing the /dashboard route.
-- Dockerizing the Flask application for ease of deployment.
-
-## Table of Contents
+# Table of Contents
 
 - [Running the Flask App](#running-the-flask-app)
-- [Testing the Flask App](#testing-the-flask-app)
 - [Exploratory Data Analysis (EDA) using Python & SQL](#exploratory-data-analysis-eda-using-python--sql)
 - [Additional Notes](#additional-notes)
 
