@@ -15,6 +15,13 @@ As a Data Scientist, my primary responsibilities include:
 - Utilizing SQL queries to extract meaningful information from the dataset stored in a MySQL database (version 8.0.35).
 - Creating visualizations in Jupyter Notebooks for in-depth exploration.
 
+## Power BI Visualizations
+- Load the data from the created database with the appropriate connector.
+- Build a data model for the extracted data.
+- Design a Power BI dashboard that provides meaningful insights from the data.
+- Utilize appropriate visualizations (charts, graphs, etc.).
+- Submit the Power BI file along with a brief explanation of your design choices.
+
 ## Documentation:
 
 - Providing clear and concise documentation for the Flask web application.
