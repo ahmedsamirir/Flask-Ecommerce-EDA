@@ -19,8 +19,6 @@ As a Data Scientist, my primary responsibilities include:
 - Load the data from the created database with the appropriate connector.
 - Build a data model for the extracted data.
 - Design a Power BI dashboard that provides meaningful insights from the data.
-- Utilize appropriate visualizations (charts, graphs, etc.).
-- Submit the Power BI file along with a brief explanation of your design choices.
 
 ## Documentation:
 
